@@ -1,1 +1,0 @@
-This is a collection of my codes that I used to solve problems in different online judge.
